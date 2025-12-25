@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/action_profile"
+        android:title="👤 My Profile"
+        android:icon="@android:drawable/ic_menu_myplaces" />
+    
+    <item
+        android:id="@+id/action_settings"
+        android:title="⚙️ Settings"
+        android:icon="@android:drawable/ic_menu_preferences" />
+    
+    <item
+        android:id="@+id/action_about"
+        android:title="ℹ️ About"
+        android:icon="@android:drawable/ic_menu_info_details" />
+    
+    <item
+        android:id="@+id/action_upcoming_features"
+        android:title="🚀 Upcoming Features"
+        android:icon="@android:drawable/ic_menu_agenda" />
+    
+    <item
+        android:id="@+id/action_logout"
+        android:title="🚪 Logout"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel" />
+    
+</menu>

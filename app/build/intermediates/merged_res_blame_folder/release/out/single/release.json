@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_lesson.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_lesson.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_code_view.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_code_view.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/drawable_gradient_background.xml.flat",
+        "source": "com.clearning.app-main-33:/drawable/gradient_background.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_fragment_practice.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/fragment_practice.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_upcoming_features.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_upcoming_features.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/drawable_button_primary.xml.flat",
+        "source": "com.clearning.app-main-33:/drawable/button_primary.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_about.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/drawable_circle_white_border.xml.flat",
+        "source": "com.clearning.app-main-33:/drawable/circle_white_border.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_item_program_category.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/item_program_category.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/drawable_code_background.xml.flat",
+        "source": "com.clearning.app-main-33:/drawable/code_background.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_signup.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.clearning.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_result.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/drawable_button_accent.xml.flat",
+        "source": "com.clearning.app-main-33:/drawable/button_accent.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/drawable_progress_bar.xml.flat",
+        "source": "com.clearning.app-main-33:/drawable/progress_bar.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_item_chapter.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/item_chapter.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_login.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.clearning.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_item_upcoming_feature.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/item_upcoming_feature.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/drawable_button_success.xml.flat",
+        "source": "com.clearning.app-main-33:/drawable/button_success.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_quiz.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_edit_profile.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/drawable_splash_background.xml.flat",
+        "source": "com.clearning.app-main-33:/drawable/splash_background.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/drawable_button_secondary.xml.flat",
+        "source": "com.clearning.app-main-33:/drawable/button_secondary.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/drawable_badge_completed.xml.flat",
+        "source": "com.clearning.app-main-33:/drawable/badge_completed.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/menu_menu_main.xml.flat",
+        "source": "com.clearning.app-main-33:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_chapter.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_chapter.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_settings.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_item_lesson.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/item_lesson.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_program_detail.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_program_detail.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_fragment_compiler.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/fragment_compiler.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_java_programming.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_java_programming.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_practice_set.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_practice_set.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/drawable_button_background.xml.flat",
+        "source": "com.clearning.app-main-33:/drawable/button_background.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_fragment_chapters.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/fragment_chapters.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_item_program.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/item_program.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_category_programs.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_category_programs.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_c_programming.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_c_programming.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_item_result.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/item_result.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/menu_menu_profile.xml.flat",
+        "source": "com.clearning.app-main-33:/menu/menu_profile.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_profile.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_splash.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/drawable_circle_avatar_background.xml.flat",
+        "source": "com.clearning.app-main-33:/drawable/circle_avatar_background.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/drawable_badge_not_started.xml.flat",
+        "source": "com.clearning.app-main-33:/drawable/badge_not_started.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_fragment_programs.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/fragment_programs.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_item_practice_set.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/item_practice_set.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/layout_activity_forgot_password.xml.flat",
+        "source": "com.clearning.app-main-33:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/drawable_badge_in_progress.xml.flat",
+        "source": "com.clearning.app-main-33:/drawable/badge_in_progress.xml"
+    },
+    {
+        "merged": "com.clearning.app-merged_res-32:/drawable_input_background.xml.flat",
+        "source": "com.clearning.app-main-33:/drawable/input_background.xml"
+    }
+]

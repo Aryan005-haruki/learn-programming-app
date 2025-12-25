@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Modern Purple/Blue Gradient Theme -->
+    <color name="primary">#6C63FF</color>
+    <color name="primary_dark">#5548E8</color>
+    <color name="primary_light">#8B84FF</color>
+    <color name="accent">#FF6584</color>
+    <color name="accent_light">#FF8FA3</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#F5F7FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+    <color name="text_white">#FFFFFF</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#667EEA</color>
+    <color name="gradient_end">#764BA2</color>
+    <color name="gradient_start_light">#A8EDEA</color>
+    <color name="gradient_end_light">#FED6E3</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#10B981</color>
+    <color name="success_light">#D1FAE5</color>
+    <color name="error">#EF4444</color>
+    <color name="error_light">#FEE2E2</color>
+    <color name="warning">#F59E0B</color>
+    <color name="warning_light">#FEF3C7</color>
+    <color name="info">#3B82F6</color>
+    <color name="info_light">#DBEAFE</color>
+    
+    <!-- Progress Colors -->
+    <color name="progress_bg">#E5E7EB</color>
+    <color name="progress_fill">#6C63FF</color>
+    
+    <!-- Quiz Colors -->
+    <color name="quiz_correct">#10B981</color>
+    <color name="quiz_wrong">#EF4444</color>
+    <color name="quiz_selected">#6C63FF</color>
+    <color name="quiz_default">#F3F4F6</color>
+    
+    <!-- Code Syntax Colors -->
+    <color name="code_background">#1E1E1E</color>
+    <color name="code_text">#D4D4D4</color>
+    <color name="code_keyword">#569CD6</color>
+    <color name="code_string">#CE9178</color>
+    <color name="code_comment">#6A9955</color>
+    
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+    <color name="overlay">#80000000</color>
+</resources>
