@@ -25,17 +25,13 @@
                 android:orientation="vertical"
                 android:gravity="center">
 
-                <!-- App Icon -->
-                <TextView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:text="{ C }"
-                    android:textSize="42sp"
-                    android:textColor="@color/text_white"
-                    android:fontFamily="monospace"
-                    android:textStyle="bold"
-                    android:gravity="center"
-                    android:background="@drawable/circle_white_border" />
+                <!-- App Logo -->
+                <ImageView
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:src="@drawable/app_logo"
+                    android:contentDescription="App Logo"
+                    android:scaleType="fitCenter" />
 
                 <TextView
                     android:layout_width="wrap_content"

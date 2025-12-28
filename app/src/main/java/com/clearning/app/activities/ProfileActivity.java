@@ -88,25 +88,39 @@ public class ProfileActivity extends AppCompatActivity {
     }
 
     private void showLogoutDialog() {
-        new AlertDialog.Builder(this)
+        new android.app.AlertDialog.Builder(this, android.R.style.Theme_Material_Light_Dialog_Alert)
             .setTitle("Logout")
-            .setMessage(R.string.logout_confirm)
-            .setPositiveButton(R.string.yes, new DialogInterface.OnClickListener() {
+            .setMessage("Are you sure you want to logout?")
+            .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
                 @Override
                 public void onClick(DialogInterface dialog, int which) {
                     logout();
                 }
             })
-            .setNegativeButton(R.string.no, null)
+            .setNegativeButton("No", null)
+            .setCancelable(true)
             .show();
     }
 
     private void logout() {
-        dataProvider.logout();
-        Intent intent = new Intent(this, LoginActivity.class);
-        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
-        startActivity(intent);
-        finish();
+        try {
+            // Sign out from Firebase
+            com.google.firebase.auth.FirebaseAuth.getInstance().signOut();
+            
+            // Clear local data
+            dataProvider.logout();
+            
+            // Show toast
+            android.widget.Toast.makeText(this, "Logged out successfully", android.widget.Toast.LENGTH_SHORT).show();
+            
+            // Navigate to login with proper flags
+            Intent intent = new Intent(ProfileActivity.this, LoginActivity.class);
+            intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
+            startActivity(intent);
+            finish();
+        } catch (Exception e) {
+            android.widget.Toast.makeText(this, "Error: " + e.getMessage(), android.widget.Toast.LENGTH_LONG).show();
+        }
     }
 
     @Override

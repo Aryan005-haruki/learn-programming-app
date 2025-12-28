@@ -16,6 +16,7 @@ import androidx.cardview.widget.CardView;
 import com.clearning.app.R;
 import com.clearning.app.models.User;
 import com.clearning.app.utils.DataProvider;
+import com.google.firebase.auth.FirebaseAuth;
 
 public class MainActivity extends AppCompatActivity {
     private TextView tvWelcome;
@@ -142,7 +143,15 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void logout() {
+        // Sign out from Firebase
+        FirebaseAuth.getInstance().signOut();
+        
+        // Clear local data
         dataProvider.logout();
+        
+        Toast.makeText(this, "Logged out successfully", Toast.LENGTH_SHORT).show();
+        
+        // Navigate to login
         Intent intent = new Intent(this, LoginActivity.class);
         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
         startActivity(intent);

@@ -1,206 +1,210 @@
 [
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_item_upcoming_feature.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\item_upcoming_feature.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\drawable_input_background.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\drawable\\input_background.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\drawable_input_background.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\drawable\\input_background.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\menu_menu_main.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\menu\\menu_main.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_java_programming.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_java_programming.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_edit_profile.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_edit_profile.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\drawable_button_secondary.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\drawable\\button_secondary.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_fragment_programs.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\fragment_programs.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\menu_menu_profile.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\menu\\menu_profile.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\drawable_progress_bar.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\drawable\\progress_bar.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_quiz.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_quiz.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_about.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\drawable_button_primary.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\drawable\\button_primary.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_item_practice_set.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\item_practice_set.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_item_result.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\item_result.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\drawable\\button_background.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_item_lesson.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\item_lesson.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\drawable_progress_bar.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\drawable\\progress_bar.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_item_chapter.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\item_chapter.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_edit_profile.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\drawable_button_success.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\drawable\\button_success.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_settings.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_settings.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_profile.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_about.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_about.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\drawable_badge_completed.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\drawable\\badge_completed.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_upcoming_features.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_upcoming_features.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_upcoming_features.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_upcoming_features.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_quiz.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_quiz.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\drawable_circle_white_border.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\drawable\\circle_white_border.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_signup.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_item_program_category.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\item_program_category.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\drawable_splash_background.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\drawable\\splash_background.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_practice_set.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_practice_set.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_item_program.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\item_program.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_c_programming.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_c_programming.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\drawable_code_background.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\drawable\\code_background.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\drawable_badge_in_progress.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\drawable\\badge_in_progress.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_fragment_chapters.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\fragment_chapters.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_fragment_compiler.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\fragment_compiler.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_category_programs.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_category_programs.xml"
     },
     {
-        "merged": "com.clearning.app-merged_res-32:/layout_activity_main.xml.flat",
-        "source": "com.clearning.app-main-34:/layout/activity_main.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_fragment_programs.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\fragment_programs.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_fragment_practice.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\fragment_practice.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_c_programming.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_c_programming.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_item_upcoming_feature.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\item_upcoming_feature.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\drawable_circle_avatar_background.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\drawable\\circle_avatar_background.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\drawable_badge_not_started.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\drawable\\badge_not_started.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_chapter.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_chapter.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_java_programming.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_java_programming.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_settings.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_category_programs.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_category_programs.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_result.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\drawable_circle_avatar_background.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\drawable\\circle_avatar_background.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\drawable_app_logo.png.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\drawable\\app_logo.png"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_signup.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_signup.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\drawable_button_accent.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\drawable\\button_accent.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\drawable_button_secondary.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\drawable\\button_secondary.xml"
+        "merged": "com.clearning.app-merged_res-37:/drawable_app_logo.png.flat",
+        "source": "com.clearning.app-main-39:/drawable/app_logo.png"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\drawable_button_accent.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\drawable\\button_accent.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_practice_set.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_practice_set.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_item_practice_set.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\item_practice_set.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_result.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_result.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_code_view.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_code_view.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_profile.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_profile.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_item_result.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\item_result.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_code_view.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_code_view.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\drawable_button_primary.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\drawable\\button_primary.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_splash.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_splash.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\menu\\menu_main.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\drawable_button_background.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\drawable\\button_background.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_fragment_compiler.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\fragment_compiler.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\drawable_gradient_background.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\drawable\\gradient_background.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_program_detail.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_program_detail.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_forgot_password.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_forgot_password.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_forgot_password.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_program_detail.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_program_detail.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_item_chapter.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\item_chapter.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\drawable_badge_not_started.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\drawable\\badge_not_started.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_item_program.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\item_program.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\drawable_badge_in_progress.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\drawable\\badge_in_progress.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\drawable_button_success.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\drawable\\button_success.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\drawable_code_background.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\drawable\\code_background.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_activity_lesson.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\activity_lesson.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_lesson.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_lesson.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\drawable_badge_completed.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\drawable\\badge_completed.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_activity_chapter.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\activity_chapter.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_fragment_practice.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\fragment_practice.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\layout_fragment_chapters.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\layout\\fragment_chapters.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\drawable\\gradient_background.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\drawable_splash_background.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\drawable\\splash_background.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\drawable_circle_white_border.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\drawable\\circle_white_border.xml"
     },
     {
-        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-32:\\menu_menu_profile.xml.flat",
-        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-34:\\menu\\menu_profile.xml"
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_item_program_category.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\item_program_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-merged_res-37:\\layout_item_lesson.xml.flat",
+        "source": "C:\\Users\\ARYAN\\.gradle\\daemon\\8.2\\com.clearning.app-main-39:\\layout\\item_lesson.xml"
     }
 ]

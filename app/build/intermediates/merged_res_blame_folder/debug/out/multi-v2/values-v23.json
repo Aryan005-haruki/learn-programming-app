@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.clearning.app-mergeDebugResources-30:/values-v23/values-v23.xml",
+            "outputFile": "com.clearning.app-mergeDebugResources-35:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ARYAN\\.gradle\\caches\\transforms-3\\9eb27526ac9bb145371b7a50a7e1377c\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\ARYAN\\.gradle\\caches\\transforms-3\\b5951bc762939d9ff4c9ca7c3fec7356\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ARYAN\\.gradle\\caches\\transforms-3\\74a2558674f6dcad48a387d806131537\\transformed\\material-1.11.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\ARYAN\\.gradle\\caches\\transforms-3\\bd441e5b48a1dc2ca10b9dbdfe7878c6\\transformed\\material-1.11.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,5,9,13,16,19,22,25,28,32",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ARYAN\\.gradle\\caches\\transforms-3\\3c3e8d87979f80077854f6234c4ddaef\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\ARYAN\\.gradle\\caches\\transforms-3\\b5575a86ee5ccf20f778177f2b298974\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

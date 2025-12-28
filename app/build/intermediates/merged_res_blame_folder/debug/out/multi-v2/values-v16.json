@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.clearning.app-mergeDebugResources-30:/values-v16/values-v16.xml",
+            "outputFile": "com.clearning.app-mergeDebugResources-35:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ARYAN\\.gradle\\caches\\transforms-3\\3c3e8d87979f80077854f6234c4ddaef\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\ARYAN\\.gradle\\caches\\transforms-3\\b5575a86ee5ccf20f778177f2b298974\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ARYAN\\.gradle\\caches\\transforms-3\\f0f4ee7c3b88100b2d2cd4b05ab423cd\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\ARYAN\\.gradle\\caches\\transforms-3\\2e6153425324545fcd287a2f319ce459\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

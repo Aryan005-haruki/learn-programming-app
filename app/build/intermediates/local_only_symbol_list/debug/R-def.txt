@@ -37,6 +37,7 @@ color text_white
 color transparent
 color warning
 color warning_light
+drawable app_logo
 drawable badge_completed
 drawable badge_in_progress
 drawable badge_not_started
@@ -215,7 +216,12 @@ string explanation_label
 string finish_quiz
 string forgot_password
 string full_name
+string gcm_defaultSenderId
 string good_job
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
 string home_title
 string keep_practicing
 string lesson_completed
@@ -247,6 +253,7 @@ string practice_question
 string previous_lesson
 string privacy_policy
 string profile_title
+string project_id
 string question_number
 string quiz_title
 string result_title

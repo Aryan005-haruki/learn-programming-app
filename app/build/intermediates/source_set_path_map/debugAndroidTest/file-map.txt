@@ -1,5 +1,5 @@
-com.clearning.app.test.app-core-1.5.0-0 C:\Users\ARYAN\.gradle\caches\transforms-3\d6c72f01e5ba6373c8f8f39fbdd44ca1\transformed\core-1.5.0\res
-com.clearning.app.test.app-annotation-experimental-1.3.0-1 C:\Users\ARYAN\.gradle\caches\transforms-3\fa60a9c4bd2fe3f38aa6496f8c168ba5\transformed\annotation-experimental-1.3.0\res
+com.clearning.app.test.app-core-1.5.0-0 C:\Users\ARYAN\.gradle\caches\transforms-3\4fa110b2b6cf2628fd1a1216857ceca8\transformed\core-1.5.0\res
+com.clearning.app.test.app-annotation-experimental-1.3.0-1 C:\Users\ARYAN\.gradle\caches\transforms-3\90f273683dcaf8126eff7f16c58f582c\transformed\annotation-experimental-1.3.0\res
 com.clearning.app.test.app-androidTest-2 D:\aryan project\learning app\app\build\generated\res\resValues\androidTest\debug
 com.clearning.app.test.app-mergeDebugAndroidTestResources-3 D:\aryan project\learning app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
 com.clearning.app.test.app-mergeDebugAndroidTestResources-4 D:\aryan project\learning app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
